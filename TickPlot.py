@@ -57,7 +57,7 @@ def time_tuple_to_seconds(time_tuple):
     sorting by time.
     '''
     (hh, mm, ss) = time_tuple
-    return ss+mm*60+hh*3600
+    return ss + mm*60 + hh*3600
 
 def time_str_to_seconds(time_str):
     '''Converts SprWare times to a single float. 
