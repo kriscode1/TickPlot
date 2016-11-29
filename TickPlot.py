@@ -1,4 +1,4 @@
-'''Reads print and quote data for a single stock in SpryWare format, 
+'''Reads print and quote data for a single stock in SpryWare csv format, 
 colorizes the prints, and displays the data in an interactive matplotlib plot.
 
 This version can either plot with evenly spaced time intervals (to emphasize 
