@@ -16,3 +16,5 @@ Plot in uniform time with PLOT_UNIFORM_TIME_INTERVALS set to True:
 Plot with lines connecting the data points, both CONNECT_PRINTS_WITH_LINE and CONNECT_QUOTES_WITH_LINE set to True:
 
 ![Lines Example](LinesExample.png)
+
+Tested in Python 3.5.2
